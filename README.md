@@ -16,6 +16,8 @@ This in a work day scheduler that will help people plan out their work days.
 
 [Deployed page](https://halimaxo.github.io/Work-day-scheduler/)
 
+![Screenshot of deployed page](./assets/work-day-scheduler-screenshot.png)
+
 ## Usage
 
 Creating a daily schedule.
